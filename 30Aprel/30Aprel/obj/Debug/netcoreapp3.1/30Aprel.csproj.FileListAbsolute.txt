@@ -1,0 +1,14 @@
+C:\Users\elyam\Desktop\Code\30Aprel\30Aprel\bin\Debug\netcoreapp3.1\30Aprel.exe
+C:\Users\elyam\Desktop\Code\30Aprel\30Aprel\bin\Debug\netcoreapp3.1\30Aprel.deps.json
+C:\Users\elyam\Desktop\Code\30Aprel\30Aprel\bin\Debug\netcoreapp3.1\30Aprel.runtimeconfig.json
+C:\Users\elyam\Desktop\Code\30Aprel\30Aprel\bin\Debug\netcoreapp3.1\30Aprel.runtimeconfig.dev.json
+C:\Users\elyam\Desktop\Code\30Aprel\30Aprel\bin\Debug\netcoreapp3.1\30Aprel.dll
+C:\Users\elyam\Desktop\Code\30Aprel\30Aprel\bin\Debug\netcoreapp3.1\30Aprel.pdb
+C:\Users\elyam\Desktop\Code\30Aprel\30Aprel\obj\Debug\netcoreapp3.1\30Aprel.csproj.AssemblyReference.cache
+C:\Users\elyam\Desktop\Code\30Aprel\30Aprel\obj\Debug\netcoreapp3.1\30Aprel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elyam\Desktop\Code\30Aprel\30Aprel\obj\Debug\netcoreapp3.1\30Aprel.AssemblyInfoInputs.cache
+C:\Users\elyam\Desktop\Code\30Aprel\30Aprel\obj\Debug\netcoreapp3.1\30Aprel.AssemblyInfo.cs
+C:\Users\elyam\Desktop\Code\30Aprel\30Aprel\obj\Debug\netcoreapp3.1\30Aprel.csproj.CoreCompileInputs.cache
+C:\Users\elyam\Desktop\Code\30Aprel\30Aprel\obj\Debug\netcoreapp3.1\30Aprel.dll
+C:\Users\elyam\Desktop\Code\30Aprel\30Aprel\obj\Debug\netcoreapp3.1\30Aprel.pdb
+C:\Users\elyam\Desktop\Code\30Aprel\30Aprel\obj\Debug\netcoreapp3.1\30Aprel.genruntimeconfig.cache
