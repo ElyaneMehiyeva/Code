@@ -119,3 +119,32 @@
 //     return total;
 // }
 // console.log(Sum([2,3,4,5,6])); 
+// Tek ededlerin cemi
+// function Sum(nums){
+//     let total = 0;
+//     for( let i = 0; i< nums.length; i++){
+//         if(nums[i] %2 != 0){
+//             total+=nums[i];
+//         }
+//     }
+//     return total;
+// }
+// console.log(Sum([2,3,4,5,6])); 
+
+// function Sum(nums){
+//         let sum = 0;
+//         for( let i = 0; i< nums.length; i++){          
+//              sum+=nums[i];
+//         }
+//         return sum;
+//     }
+//         console.log(Sum([2,3,4,5,6])); 
+ 
+// function Repeat (word,count=1){
+//     let newstr = "";
+//     for(let i = 0; i<count; i++){
+//         newstr+=word;
+//     }
+//     return newstr;
+// }
+// console.log(Repeat("Ha!",2))
