@@ -5,73 +5,44 @@
           box-sizing: border-box;
 }
 
-html {
-  scroll-behavior: smooth;
-  font-size: 10px;
-}
-
 body {
   width: 100%;
   min-height: 100vh;
-  overflow-x: hidden;
-  letter-spacing: .1rem;
 }
 
 .container {
-  width: 1140px;
+  width: 500px;
   margin: 0 auto;
-  padding: 50px 5rem;
+  padding: 40px 5px;
 }
 
-.container h1 {
-  font-size: 24px;
-  width: 20rem;
-  margin: 0rem auto;
-  color: #6c1414;
-  margin-bottom: 3rem;
-  text-align: center;
-  position: relative;
-  cursor: pointer;
-}
-
-.container .group {
+.container .btn {
   width: 100%;
   height: 35px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
 }
 
-.container .group button {
-  width: 35px;
-  height: 35px;
-  background-color: #6c1414;
-  color: #fff;
-  cursor: pointer;
-  font-size: 16px;
+.container .btn button {
+  width: 40px;
+  height: 40px;
+  background-color: black;
+  color: white;
 }
 
-.container .group button:hover {
-  background-color: rgba(108, 20, 20, 0.2);
-  color: #000;
-}
-
-.container .group input {
+.container .btn input {
   width: 96%;
-  height: 25px;
-  border: 1px solid #6c1414;
-  font-size: 14px;
+  height: 30px;
+  border: 1px solid;
+  font-size: 20px;
   padding: 0px 5px;
-  color: #6c1414;
 }
 
-.container #todos {
+.container #todo {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -79,10 +50,10 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
-.container #todos li {
+.container #todo li {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -92,30 +63,15 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  padding: 3px 5px;
+  padding: 4px 6px;
   line-height: 200%;
 }
 
-.container #todos li:nth-child(odd) {
-  background-color: rgba(108, 20, 20, 0.2);
-}
-
-.container #todos li i {
-  width: 35px;
-  height: 35px;
-  line-height: 35px;
+.container #todo li i {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
   text-align: center;
-  font-size: 16px;
-  color: #6c1414;
-}
-
-.container #todos li i:hover {
-  color: #000;
-  cursor: pointer;
-}
-
-.container #todos li p {
-  width: 96%;
   font-size: 14px;
 }
 /*# sourceMappingURL=style.css.map */
