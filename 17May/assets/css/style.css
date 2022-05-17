@@ -98,7 +98,7 @@ body {
 }
 
 .container #slider div:nth-child(1):hover {
-  background-color: rgba(0, 0, 139, 0.5);
+  background-color: rgba(164, 164, 173, 0.5);
   cursor: pointer;
   color: #fff;
 }
@@ -108,7 +108,7 @@ body {
 }
 
 .container #slider div:last-child:hover {
-  background-color: rgba(0, 0, 139, 0.5);
+  background-color: rgba(164, 164, 173, 0.5);
   cursor: pointer;
   color: #fff;
 }
